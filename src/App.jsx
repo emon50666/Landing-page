@@ -1,3 +1,5 @@
+import About from "./components/AboutUs/About";
+import Brand from "./components/Brand/Brand";
 import Header from "./components/Header/Header";
 import Hero from "./components/Header/Hero/Hero";
 
@@ -9,6 +11,8 @@ const App = () => {
    <Header/>
    </div>
    <Hero/>
+   <Brand/>
+   <About/>
     </div>
   );
 };
