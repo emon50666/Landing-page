@@ -22,8 +22,9 @@ Make sure you have the following installed:
    git clone https://github.com/yourusername/landing-page.git
    cd landing-page
    ```
+   
    2. ** Install dependencies**
-   ```
+
   npm install 
   
 
