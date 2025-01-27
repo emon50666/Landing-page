@@ -25,8 +25,8 @@ Make sure you have the following installed:
    
   
   
-  ``` 2. ** Install dependencies**
-  npm install 
+    ``` Install dependencies** 
+   npm install 
    ```
 
 🚦 Running the Project
