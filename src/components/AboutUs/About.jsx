@@ -5,7 +5,7 @@ const About = () => {
             <div className="lg:px-14 grid pt-12  grid-cols-1 lg:grid-cols-2  min-h-screen bg-[#12141D] text-white p-6">
                 {/* Left Image Section */}
                 <div className="relative  lg:w-9/12 mb-6 md:mb-0">
-                    <div className="absolute inset-0 flex items-center justify-center z-10">
+                    <div className="absolute  inset-0 flex items-center justify-center z-10">
                         <div className="relative h-62 mb-36 left-36 w-62  bg-gradient-to-r from-[#221837] to-[#BB2BFF] rounded-full blur-3xl opacity-40"></div>
                     </div>
                     <div className="text-start bg-white text-black z-40 p-4 rounded-md">
@@ -60,7 +60,7 @@ const About = () => {
 
             {/* about us second section  */}
 
-            <div className="lg:px-14 grid relative bottom-16  grid-cols-1 lg:grid-cols-2  min-h-screen bg-[#12141D] text-white p-6">
+            <div className="lg:px-14 grid relative   grid-cols-1 lg:grid-cols-2  min-h-screen bg-[#12141D] text-white p-6">
                 {/* left Text Section */}
                 <div className=" text-center   md:pt-10 md:text-start space-y-6 lg:mr-8">
                     <h1 className="font-3xl  md:text-4xl lg:text-[45px] font-semibold leading-tight">
