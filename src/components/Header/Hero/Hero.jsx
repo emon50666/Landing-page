@@ -4,7 +4,7 @@ const Hero = () => {
         <section className="relative  bg-[#12141D]   min-h-screen flex items-center justify-center ">
             {/* Hero Content */}
             <div className="absolute inset-0 flex items-center justify-center">
-                <div className="relative h-80 mb-56 w-80  bg-gradient-to-r from-[#221837] to-[#BB2BFF] rounded-full blur-3xl opacity-25"></div>
+                <div className="relative -left-10 h-80 mb-56 w-96  bg-gradient-to-r from-[#241938] to-[#BB2BFF] rounded-full blur-3xl opacity-19"></div>
             </div>
             <div className="text-center max-w-[511px] z-40 px-2  pt-32  ">
                 <h1 className="text-4xl md:text-6xl font-semibold text-white leading-[40px]  md:leading-[60px] ">
