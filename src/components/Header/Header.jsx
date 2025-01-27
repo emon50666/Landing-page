@@ -33,7 +33,7 @@ const Header = () => {
             Sign in
           </button>
           <button
-            className="py-2 px-4 cursor-pointer rounded-lg bg-gradient-to-r from-[#2B59FF] to-[#BB2BFF] text-white hover:opacity-90"
+            className="py-2 px-4 cursor-pointer rounded-lg bg-gradient-to-r  from-[#2B59FF] to-[#BB2BFF] text-white hover:opacity-90"
           >
             Get Started Free
           </button>

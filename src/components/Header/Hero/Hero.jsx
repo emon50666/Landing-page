@@ -16,7 +16,7 @@ const Hero = () => {
                     media websites, and much more.
                 </p>
                 <div className="mt-8">
-                    <button className="py-3 px-6 cursor-pointer bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-lg shadow-lg hover:opacity-90">
+                    <button className="py-3 px-6 cursor-pointer bg-gradient-to-r  from-[#2B59FF] to-[#BB2BFF] text-white rounded-lg shadow-lg hover:opacity-90">
                         Start 14 Days Free Trial
                     </button> <br />
                     <p className="text-white mt-4  font-semibold pb-28 flex justify-center items-center mx-auto gap-2">
