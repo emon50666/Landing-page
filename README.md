@@ -23,13 +23,15 @@ Make sure you have the following installed:
    cd landing-page
    ```
    
-   2. ** Install dependencies**
-
-  npm install 
   
+  
+  ``` 2. ** Install dependencies**
+  npm install 
+   ```
 
 🚦 Running the Project
-After installation, start the development server using:
+```After installation, start the development server using:
 npm run dev
 ```
+
 
