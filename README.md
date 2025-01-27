@@ -1,4 +1,4 @@
-[Live Link] [https://landing-page-tau-dusky.vercel.app/]
+[Live Link] (https://landing-page-tau-dusky.vercel.app/)
 ---
 
 ## 🚀 Getting Started
