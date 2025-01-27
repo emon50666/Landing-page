@@ -3,6 +3,8 @@ import Blog from "./components/Blog/Blog";
 import Brand from "./components/Brand/Brand";
 import Header from "./components/Header/Header";
 import Hero from "./components/Header/Hero/Hero";
+import PriceCard from "./components/PricingCard/PriceCard";
+import Testimonials from "./components/Testimonials/Testimonials";
 import Tools from "./components/WritingTools/Tools";
 
 
@@ -17,6 +19,8 @@ const App = () => {
    <About/>
    <Tools/>
    <Blog/>
+   <Testimonials/>
+   <PriceCard/>
     </div>
   );
 };

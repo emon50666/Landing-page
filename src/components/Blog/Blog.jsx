@@ -62,7 +62,9 @@ const Blog = () => {
                         <span className="w-3 h-3 bg-green-500 rounded-full"></span>
                     </div>
                     <p className="text-gray-300 border-b border-[#2f323f]">4 Blog Headlines Generated</p>
-
+                    <div className="absolute inset-0 flex items-center justify-center">
+                <div className="relative h-80 -left-40 top-40 w-80  bg-gradient-to-r from-[#221837] to-[#BB2BFF] rounded-full blur-3xl opacity-20"></div>
+            </div>
                     <ul className="mt-4 text-gray-300 space-y-3">
                         {selectedTool.content.map((item, idx) => (
                             <li key={idx} className="border-b border-[#2f323f] ">{item}</li>
