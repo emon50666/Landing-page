@@ -1,6 +1,7 @@
 [Live Link] (https://landing-page-tau-dusky.vercel.app/)
 ---
-
+## I am creating this landing page using this technology.
+Front-end : React.js Tailwins Css
 ## 🚀 Getting Started
 
 Follow these steps to run the project on your local machine.
