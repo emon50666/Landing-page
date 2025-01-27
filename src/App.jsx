@@ -11,6 +11,7 @@ import Tools from "./components/WritingTools/Tools";
 
 
 const App = () => {
+  
   return (
     <div className="">
    <div className="absolute z-50 w-full">
