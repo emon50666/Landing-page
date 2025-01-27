@@ -8,10 +8,6 @@ Follow these steps to run the project on your local machine.
 ### Prerequisites
 
 Make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (LTS version recommended)
-- [Git](https://git-scm.com/)
-
 ---
 
 ### 🛠 Installation
@@ -19,7 +15,7 @@ Make sure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/landing-page.git
+   git clone https://github.com/emon50666/Landing-page
    cd landing-page
    ```
    
